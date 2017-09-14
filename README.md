@@ -1,3 +1,0 @@
-# UserBadgerSystem
-sdasda
-sdsa
