@@ -1,0 +1,4 @@
+C:\Users\qingyangkong\Documents\Visual Studio 2015\Projects_1\UserBadgerSystem\UserBadgerSystem.SharedObject\bin\Debug\UserBadgerSystem.SharedObject.dll
+C:\Users\qingyangkong\Documents\Visual Studio 2015\Projects_1\UserBadgerSystem\UserBadgerSystem.SharedObject\bin\Debug\UserBadgerSystem.SharedObject.pdb
+C:\Users\qingyangkong\Documents\Visual Studio 2015\Projects_1\UserBadgerSystem\UserBadgerSystem.SharedObject\obj\Debug\UserBadgerSystem.SharedObject.dll
+C:\Users\qingyangkong\Documents\Visual Studio 2015\Projects_1\UserBadgerSystem\UserBadgerSystem.SharedObject\obj\Debug\UserBadgerSystem.SharedObject.pdb
