@@ -1,9 +1,0 @@
-C:\Users\qingyangkong\Documents\Visual Studio 2015\Projects_1\UserBadgerSystem\UserBadgerSystem.Badgers\bin\Debug\UserBadgerSystem.Badgers.dll
-C:\Users\qingyangkong\Documents\Visual Studio 2015\Projects_1\UserBadgerSystem\UserBadgerSystem.Badgers\bin\Debug\UserBadgerSystem.Badgers.pdb
-C:\Users\qingyangkong\Documents\Visual Studio 2015\Projects_1\UserBadgerSystem\UserBadgerSystem.Badgers\bin\Debug\UserBadgerSystem.Interface.dll
-C:\Users\qingyangkong\Documents\Visual Studio 2015\Projects_1\UserBadgerSystem\UserBadgerSystem.Badgers\bin\Debug\UserBadgerSystem.SharedObject.dll
-C:\Users\qingyangkong\Documents\Visual Studio 2015\Projects_1\UserBadgerSystem\UserBadgerSystem.Badgers\bin\Debug\UserBadgerSystem.Interface.pdb
-C:\Users\qingyangkong\Documents\Visual Studio 2015\Projects_1\UserBadgerSystem\UserBadgerSystem.Badgers\bin\Debug\UserBadgerSystem.SharedObject.pdb
-C:\Users\qingyangkong\Documents\Visual Studio 2015\Projects_1\UserBadgerSystem\UserBadgerSystem.Badgers\obj\Debug\UserBadgerSystem.Badgers.csprojResolveAssemblyReference.cache
-C:\Users\qingyangkong\Documents\Visual Studio 2015\Projects_1\UserBadgerSystem\UserBadgerSystem.Badgers\obj\Debug\UserBadgerSystem.Badgers.dll
-C:\Users\qingyangkong\Documents\Visual Studio 2015\Projects_1\UserBadgerSystem\UserBadgerSystem.Badgers\obj\Debug\UserBadgerSystem.Badgers.pdb
